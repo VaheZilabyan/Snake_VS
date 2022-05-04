@@ -1,0 +1,9 @@
+W-up
+S-down
+A-left
+D-right
+Q-quit\n
+Level infinity - for win score will be 50
+Level easy - for win score will be 10
+Level medium - for win score will be 15
+Level hard - for win score will be 20
